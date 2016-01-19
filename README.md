@@ -4,7 +4,7 @@ Dataset is available from this link:  https://www.kaggle.com/c/airbnb-recruiting
 
 A description of all the files in this repository are given below:
 
-<em>Submission 1:</em>
+<em>Submission 1:</em></br>
 1. tree_airbnb_factorize.R 
    ctree() to create predictive model for estimating destination for airbnb users.
 
@@ -18,8 +18,8 @@ A description of all the files in this repository are given below:
 (note: s1_b is a copy of the same file)
 This file gives a score of 0.79055
 
-
-<em>Submission 2:</em>
+<hr>
+<em>Submission 2:</em></br>
 1. airbnb-nonUS-travelers2.R
    R program to design modified prediction tree model. A subset of the training set is used, without data from users who traveled to     “US”   or “NDF”. 
 
