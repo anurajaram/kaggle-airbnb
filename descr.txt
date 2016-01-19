@@ -1,0 +1,16 @@
+lang
+Predictive analysis for airbnb kaggle competition, to estimate which destination users want to travel, based on their language and gender. 
+
+s1_a.csv
+Kaggle submission Excel (.csv) file combining output from two R programs:
+1. tree_airbnb_factorize.R and 
+2. lang-subsets.R
+
+
+airbnb-nonUS-travelers2.R
+R program to design modified prediction tree model. A subset of the training set is used, without data from users who traveled to “US” or “NDF”. 
+
+chk_j9.csv
+.csv Excel submission file by combining outputs of two programs:
+1. tree_airbnb_factorize.R and 
+2. lang-subsets.R
