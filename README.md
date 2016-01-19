@@ -13,8 +13,10 @@ A description of all the files in this repository are given below:
 
 3. s1_a.csv
   Kaggle submission Excel (.csv) file combining output from two R programs:
-   >> tree_airbnb_factorize.R and 
-   >> lang-subsets.R
+   <ol>
+      <li>tree_airbnb_factorize.R and </li>
+      <li>lang-subsets.R </li>
+   </ol>
 (note: s1_b is a copy of the same file)
 This file gives a score of 0.79055
 
@@ -25,6 +27,8 @@ This file gives a score of 0.79055
 
 2. chk_j9.csv
    .csv Excel submission file by combining outputs of two programs:
-    >> airbnb-nonUS-travelers2.R and 
-    >> s1_a.csv
+    <ol>
+         <li>airbnb-nonUS-travelers2.R and </li>
+         <li>s1_a.csv</li>
+    </ol>
 This file gives a score of 0.80885
