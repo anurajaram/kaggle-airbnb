@@ -32,3 +32,14 @@ This file gives a score of 0.79055
          <li>s1_a.csv</li>
     </ol>
 This file gives a score of 0.80885
+
+<hr>
+<em>Submission 3:</em></br>
+1. highscore_jan18.R <br />
+   We assume all users have two standard destination choices NDF&US (in that order). Based on some basic segmentation,
+   according to age, gender and browser language, some users may have a third location preference too.
+
+2. submit-chk2.csv <br />
+   .csv Excel submission file by formatting output of program highscore_jan18.R. <br />
+   This file gives a score of 0.83231.
+
