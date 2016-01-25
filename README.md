@@ -26,6 +26,7 @@ A description of all the files in this repository are given below:
          <li>s1_a.csv</li>
     </ol>
 This file gives a score of <b>0.80885</b>
+<hr>
 
 
 <em>Submission 1:</em></br>
