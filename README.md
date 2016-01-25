@@ -18,7 +18,7 @@ A description of all the files in this repository are given below:
       <li>lang-subsets.R </li>
    </ol>
 (note: s1_b is a copy of the same file)
-This file gives a score of 0.79055
+This file gives a score of <em>0.79055</em>
 
 <hr>
 <em>Submission 2:</em></br>
@@ -31,7 +31,7 @@ This file gives a score of 0.79055
          <li>airbnb-nonUS-travelers2.R and </li>
          <li>s1_a.csv</li>
     </ol>
-This file gives a score of 0.80885
+This file gives a score of <em>0.80885</em>
 
 <hr>
 <em>Submission 3:</em></br>
@@ -41,5 +41,5 @@ This file gives a score of 0.80885
 
 2. submit-chk2.csv <br />
    .csv Excel submission file by formatting output of program highscore_jan18.R. <br />
-   This file gives a score of 0.83231.
+   This file gives a score of <em>0.83231 </em>
 
